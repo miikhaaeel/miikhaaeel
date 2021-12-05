@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Flutter.
+- 🔭 I’m currently working on Mobile App Development using Flutter.
 
 - 🌱 I’m currently learning **Sqlite.**
 
